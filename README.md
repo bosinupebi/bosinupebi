@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bosinupebi
 - 👀 I’m interested in Data Science and Development operations
 - 🌱 I’m currently learning Testing Automation in C#
-- I'm currently learning smart Dapp development
+- I'm currently learning Dapp development
 - 💞️ I’m looking to collaborate on Democratizing data science/analysis
 - 📫 How to reach me - Linkedin - Bo Osinupebi
