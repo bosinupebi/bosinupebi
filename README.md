@@ -4,4 +4,3 @@
 - I'm currently learning Dapp development
 - 💞️ I’m looking to collaborate on Democratizing data science/analysis
 - Running an Ethereum Classic Node in the wild
-- 📫 How to reach me - Linkedin - Bo Osinupebi
