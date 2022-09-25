@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @bosinupebi
 - 👀 I’m interested in Data Science and Development operations
 - 🌱 Automating enterprise front ends with c# and selenium
 - Automating enterprise API tests
