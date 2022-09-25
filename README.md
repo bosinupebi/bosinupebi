@@ -1,4 +1,4 @@
-- 👀 I’m interested in Data Science and Development operations
+- 👀 I’m interested in Data Science, Software Development & Testing, Blockchains
 - Automating enterprise front ends with c# and selenium
 - Automating enterprise API tests
 - I'm currently learning Dapp development
