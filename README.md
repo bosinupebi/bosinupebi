@@ -2,5 +2,5 @@
 - Automating enterprise front ends with c# and selenium
 - Automating enterprise API tests
 - I'm currently learning Dapp development
-- I’m looking to collaborate on Democratizing data science/analysis
+- writing random code
 - Running an Ethereum Classic Node in the wild
