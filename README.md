@@ -1,7 +1,6 @@
 - 👀 I’m interested in Data Science, Software Development & Testing, Blockchains
 - Automating enterprise front ends with c# and selenium
 - Automating enterprise API tests
-- Dapp development
+- Dapp and fullstack development
 - Writing random code
-- c# backend development
 - Running an Ethereum Classic Node in the wild
