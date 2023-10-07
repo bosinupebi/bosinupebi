@@ -1,4 +1,4 @@
--I’m interested in Data Science, Software Development, Testing and publicBlockchains
+- I’m interested in Data Science, Software Development, Testing and publicBlockchains
 - Automating enterprise front ends with c# and selenium
 - Automating enterprise API tests
 - Dapp and fullstack development
