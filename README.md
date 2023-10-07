@@ -2,5 +2,5 @@
 - Automating enterprise front ends with c# and selenium
 - Automating enterprise API tests
 - Dapp and fullstack development
-- Blockchain interactions
-- Running an Ethereum Classic Node in the wild
+- Running an Ethereum Classic Node in the wild and observing the mempool
+
