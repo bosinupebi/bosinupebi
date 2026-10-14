@@ -8,6 +8,10 @@ I am considering **Canada remote or Toronto hybrid** engineering roles, **perman
 
 [Engineering profile and resume](https://osinupebi.com/engineering) · [LinkedIn](https://www.linkedin.com/in/bolaosinupebi/) · [Email](mailto:bo@osinupebi.com)
 
+## Professional stack
+
+C#, .NET Framework, ASP.NET Core, Azure, SQL Server, Entity Framework, React, TypeScript, and Vite. My work also includes TeamCity/Octopus CI/CD, JWT-based authentication, code review, and mentoring.
+
 ## Selected professional work
 
 - Designed and shipped Azure-hosted .NET REST APIs handling **4,000+ requests per minute**.
@@ -15,6 +19,8 @@ I am considering **Canada remote or Toronto hybrid** engineering roles, **perman
 - Engineered Stripe payment workflows supporting **$1M+ gross volume in their first six months**, with idempotency, recoverable states, retries, and reconciliation.
 - Built Playwright and Postman/JavaScript regression suites covering **700+ test cases**, lifting automated coverage to **90%**.
 - Integrated NetSuite billing for invoicing, payment tracking, and reconciliation.
+
+[Independent C# payment recovery demonstration](https://github.com/bosinupebi/payment-recovery-demo): durable intents, idempotent retries, restart recovery, and reconciliation with a synthetic processor.
 
 My employer implementation code is private. [This payment systems note](https://osinupebi.com/thoughts/persist-intent-before-external-side-effects) explains the engineering pattern behind recoverable external actions.
 
